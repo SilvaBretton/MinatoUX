@@ -1,0 +1,28 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;200;300;400;500;600;700;800;900&family=Shippori+Mincho+B1:wght@400;500&display=swap'); */
+
+* {
+    margin: 30;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Diphylleia', 'Noto Serif SC', 'Shippori Mincho B1', serif; */
+}
+
+body {
+    margin: 10%;
+    /* background-color:#F7F2ED; */
+    background-color: #1F242D;
+    font-family: "思源黑体", "Microsoft YaHei";
+}
+
+
+.pic {
+    display: flex;
+    /* width: 90vw; */
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5vh;
+}
+
+.pic img {
+    width: 70vw;
+}
